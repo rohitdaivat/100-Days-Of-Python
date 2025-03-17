@@ -24,3 +24,7 @@ Each day's folder will have a `README.md` that covers:
 2️⃣ **Concepts Learned**  
 3️⃣ **Final Project for that Day**  
 
+
+## 🛠️ Tools & Technologies Used  
+- Python 3 - the latest version of Python
+- PyCharm
