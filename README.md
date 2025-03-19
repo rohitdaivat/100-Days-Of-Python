@@ -11,7 +11,7 @@ Each day's folder contains:
 | Day  | Topic | Project |
 |------|---------|------------|
 | [Day 1](https://github.com/rohitdaivat/100-Days-Of-Python/tree/main/Day01/)  | Working with Variables in Python to Manage Data  | Band Name Generator |
-| [Day 2]()  | Understanding Data Types and How to Manipulate Strings  | Tip Calculator |
+| [Day 2](https://github.com/rohitdaivat/100-Days-Of-Python/tree/main/Day02)  | Understanding Data Types and How to Manipulate Strings  | Tip Calculator |
 |--| ---| ---|
 | [Day 100]() | Final Project | Summary |
 
